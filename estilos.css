@@ -19,8 +19,9 @@ color: #fff;
 
  div#Animesrelacionados{
   width: 300px;
-  height: 100px;
+  height: 200px;
   float: right;
+    margin:50px; 
  
 }
 header ul{
