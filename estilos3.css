@@ -1,4 +1,8 @@
-
+body{ 
+  background: url(imagenes/imagen19.jpg);
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
 *{
   padding:0; 
   margin:0;
